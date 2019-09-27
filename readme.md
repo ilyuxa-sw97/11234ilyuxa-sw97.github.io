@@ -18,4 +18,38 @@ hide circle<br />
 @enduml<br />
 </p>
 <img src="https://github.com/ilyuxa-sw97/UlanovichID.github.io/blob/master/%D0%91%D0%B5%D0%B7%D1%8B%D0%BC%D1%8F%D0%BD%D0%BD%D1%8B%D0%B9.png" alt="Fucking shit">
- </body>
+
+<p><font size="5" color="red" face="Arial"></font>@startuml
+skinparam actor {<br />
+	BackgroundColor White<br /><br />
+	ArrowColor Black<br />
+	BorderColor Black<br />
+}<br />
+skinparam usecase {<br />
+	BackgroundColor White<br />
+	ArrowColor Black<br />
+	BorderColor Black<br />
+}<br />
+left to right direction<br />
+actor P0 as "человек"<br />
+actor M0 as "конечности"<br />
+actor P as "Мой слуга под номером 931"<br />
+actor M as "руками"<br />
+usecase A as "ДЕлать"<br />
+P -- (A)<br />
+(A) -- M<br />
+P0 <|-- P<br />
+M --|> M0<br />
+@enduml</p>
+
+
+
+
+
+
+
+
+
+
+
+</body>
