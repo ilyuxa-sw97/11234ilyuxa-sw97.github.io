@@ -4,16 +4,16 @@
   <p><a href="https://github.com/ilyuxa-sw97/UlanovichID.github.io/blob/master/model.png">ССылооочка</a></p>
  
   <p><font size="5" color="red" face="Arial"></font>@startuml
-skinparam class {
-	BackgroundColor White
-	ArrowColor Black
-	BorderColor Black
-}
-class "Мой слуга под номером 931" as P {
- руками
-Бутер с Маслицем ДЕлать (из AMERICAN SANDWICH и маслица, После пары)
-}
-hide circle
-@enduml
+skinparam class {<br />
+	BackgroundColor White<br />
+	ArrowColor Black<br />
+	BorderColor Black<br />
+}<br />
+class "Мой слуга под номером 931" as P {<br />
+ руками<br />
+Бутер с Маслицем ДЕлать (из AMERICAN SANDWICH и маслица, После пары)<br />
+}<br />
+hide circle<br />
+@enduml<br />
 </p>
  </body>
