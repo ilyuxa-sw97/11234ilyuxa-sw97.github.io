@@ -2,7 +2,8 @@
   <img src="https://github.com/ilyuxa-sw97/UlanovichID.github.io/blob/master/model12346.png" alt="Fucking shit">
 
   <p><a href="https://github.com/ilyuxa-sw97/UlanovichID.github.io/blob/master/model.png">ССылооочка</a></p>
-  <div>@startuml
+ <body>
+  <p><font size="5" color="red" face="Arial">П</font>@startuml
 skinparam class {
 	BackgroundColor White
 	ArrowColor Black
@@ -13,4 +14,6 @@ class "Мой слуга под номером 931" as P {
 Бутер с Маслицем ДЕлать (из AMERICAN SANDWICH и маслица, После пары)
 }
 hide circle
-@enduml</div>
+@enduml
+</p>
+ </body>
