@@ -1,4 +1,4 @@
-<body><H1>Отчет лабораторной работы номер 1<H1>
+<body><p><font size="5" color="red" face="Arial"></font>Отчет лабораторной работы номер 1</p>
   <img src="https://github.com/ilyuxa-sw97/UlanovichID.github.io/blob/master/model12346.png" alt="Fucking shit">
 
   <p><a href="https://github.com/ilyuxa-sw97/UlanovichID.github.io/blob/master/model.png">ССылооочка</a></p>
