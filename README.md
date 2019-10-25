@@ -47,12 +47,12 @@ M --|> M0<br />
 
 
 <p><font size="5" color="red" face="Arial"></font>Отчет лабораторной работы номер 2</p>
-<img src="https://https://github.com/ilyuxa-sw97/UlanovichID.github.io/blob/master/lab3/model2.png" alt="Fucking shit">
+<img src="https://github.com/ilyuxa-sw97/UlanovichID.github.io/blob/master/lab3/model2.png" alt="Fucking shit">
 <img src="https://github.com/ilyuxa-sw97/UlanovichID.github.io/blob/master/lab3/model1.png" alt="Fucking shit">
 
 <p><font size="5" color="red" face="Arial"></font>Отчет лабораторной работы номер 3</p>
-<img src="https://https://github.com/ilyuxa-sw97/UlanovichID.github.io/blob/master/lab3/model2.png" alt="Fucking shit">
-<img src="github.com/ilyuxa-sw97/UlanovichID.github.io/blob/master/lab3/model1.png">
+<img src="https://github.com/ilyuxa-sw97/UlanovichID.github.io/blob/master/lab3/model2.png" alt="Fucking shit">
+<img src="https://github.com/ilyuxa-sw97/UlanovichID.github.io/blob/master/lab3/model.png">
 <img src="https://github.com/ilyuxa-sw97/UlanovichID.github.io/blob/master/lab3/model3.png" alt="Fucking shit">
 <p><font size="5" color="red" face="Arial"></font>Отчет лабораторной работы номер 4</p>
 <p><font size="5" color="red" face="Arial"></font>Отчет лабораторной работы номер 5</p>
