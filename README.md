@@ -107,8 +107,10 @@ A4 Складировать (относится к внешней среде; о
     <img src="https://github.com/ilyuxa-sw97/ilyuxa-sw97.github.io/blob/master/%D0%BA%D1%83%D1%80%D1%81%D0%BE%D0%B2%D0%B0%D1%8F%20%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%B0/polnota_info.png" alt="">
   <p><font size="5" color="red" face="Arial"></font>Отчет лабораторной работы номер 6</p>
 
-
-
+* **Завершение идентификации всех потоков**
+  - Построение ERD (диаграммы классов без атрибутов) для всех потоков
+  - [Загрузка модели и диаграммы классов в репозиторий](https://github.com/ilyuxa-sw97/ilyuxa-sw97.github.io/blob/master/%D0%BA%D1%83%D1%80%D1%81%D0%BE%D0%B2%D0%B0%D1%8F%20%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%B0/ERD)
+  <img src="https://github.com/ilyuxa-sw97/ilyuxa-sw97.github.io/blob/master/%D0%BA%D1%83%D1%80%D1%81%D0%BE%D0%B2%D0%B0%D1%8F%20%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%B0/dLFBRXCn55tNNs5btpzWKLg1L8dIAXJOP6DcJ6FYiOFj0OM7LCfZ4wHAY0KII8W_c5QDc2Oa_GNF7t6JEqvdaX4WDYFDlUUS-_2vMzOnuz944jiJgiyCIsWacRNq9TdOPb7loEXKnJjQQaCVTeNZPEEcCVevHhObG02eJSnDDVIQeCejvOGRK6Pfot_ti-B4p_pOv.png" alt="">
 
 
 </body>
