@@ -113,8 +113,8 @@ A4 Складировать (относится к внешней среде; о
   <img src="https://github.com/ilyuxa-sw97/ilyuxa-sw97.github.io/blob/master/%D0%BA%D1%83%D1%80%D1%81%D0%BE%D0%B2%D0%B0%D1%8F%20%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%B0/dLFBRXCn55tNNs5btpzWKLg1L8dIAXJOP6DcJ6FYiOFj0OM7LCfZ4wHAY0KII8W_c5QDc2Oa_GNF7t6JEqvdaX4WDYFDlUUS-_2vMzOnuz944jiJgiyCIsWacRNq9TdOPb7loEXKnJjQQaCVTeNZPEEcCVevHhObG02eJSnDDVIQeCejvOGRK6Pfot_ti-B4p_pOv.png" alt="">
 * **Завершение идентификации всех ролей**
   - Построение ERD (диаграммы классов без атрибутов) для всех ролей
-  - [Загрузка модели и диаграммы классов в репозиторий](https://github.com/bobs4462/bobs4462.github.io/blob/master/lab6/roles.uml.txt)
-  ![none](https://raw.githubusercontent.com/bobs4462/bobs4462.github.io/master/lab6/roles.png)
+  - [Загрузка модели и диаграммы классов в репозиторий](https://github.com/ilyuxa-sw97/ilyuxa-sw97.github.io/blob/master/%D0%BA%D1%83%D1%80%D1%81%D0%BE%D0%B2%D0%B0%D1%8F%20%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%B0/role)
+  ![none](https://github.com/ilyuxa-sw97/ilyuxa-sw97.github.io/blob/master/%D0%BA%D1%83%D1%80%D1%81%D0%BE%D0%B2%D0%B0%D1%8F%20%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%B0/VP0nJiCm58Rd-XHMzzw0eRHYZ5JHWON5E5PZ6iULxGXLWDGY8GOaBW03Y0i4GI0gfLpX-KOuSG81LMJB-__tlTz_NnkYJ2fYfASycH551AOnqHgVeiw0qEb4oJG9XpAM2Xz4t33KsLLAdlZ987OMPvGgPAezEaUUifSORkQOQDo5UzZ0EnHTL6iZ9cSnyzgjlO4Nf.png)
 * **Завершение идентификации всех модулей**
   - Построение ERD (диаграммы классов без атрибутов) для всех модулей
   - [Загрузка модели и диаграммы классов в репозиторий](https://github.com/bobs4462/bobs4462.github.io/blob/master/lab6/modules.uml.txt) <br>
