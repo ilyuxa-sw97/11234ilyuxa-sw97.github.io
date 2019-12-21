@@ -98,14 +98,14 @@ A4 Складировать (относится к внешней среде; о
   - Определение допустимых видов хранилищ и их размещения
   Таблица в Базе данных
  DFD-декомпозиция процесса подготовка документа:
- <img src="https://github.com/ilyuxa-sw97/ilyuxa-sw97.github.io/blob/master/%D0%BA%D1%83%D1%80%D1%81%D0%BE%D0%B2%D0%B0%D1%8F%20%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%B0/model%20(7).png" alt="">
+ <img src="https://github.com/ilyuxa-sw97/ilyuxa-sw97.github.io/blob/master/%D0%BA%D1%83%D1%80%D1%81%D0%BE%D0%B2%D0%B0%D1%8F%20%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%B0/podgotovka_dokumentov.png" alt="">
   DFD-декомпозиция процесса общение с лидом:
-  <img src="https://github.com/ilyuxa-sw97/ilyuxa-sw97.github.io/blob/master/%D0%BA%D1%83%D1%80%D1%81%D0%BE%D0%B2%D0%B0%D1%8F%20%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%B0/model%20(3).png" alt="">
+  <img src="https://github.com/ilyuxa-sw97/ilyuxa-sw97.github.io/blob/master/%D0%BA%D1%83%D1%80%D1%81%D0%BE%D0%B2%D0%B0%D1%8F%20%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%B0/obshenie_s%20_lid.png" alt="">
   DFD-декомпозиция процесса анализ истории контакта:
-  
+    <img src="https://github.com/ilyuxa-sw97/ilyuxa-sw97.github.io/blob/master/%D0%BA%D1%83%D1%80%D1%81%D0%BE%D0%B2%D0%B0%D1%8F%20%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%B0/histiry_of_client.png" alt="">
   DFD-декомпозиция процесса Проверка на полноту информации:
-  
-  
+    <img src="https://github.com/ilyuxa-sw97/ilyuxa-sw97.github.io/blob/master/%D0%BA%D1%83%D1%80%D1%81%D0%BE%D0%B2%D0%B0%D1%8F%20%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%B0/polnota_info.png" alt="">
+  <p><font size="5" color="red" face="Arial"></font>Отчет лабораторной работы номер 6</p>
 
 
 
