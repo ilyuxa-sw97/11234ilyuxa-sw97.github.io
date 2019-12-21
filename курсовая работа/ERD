@@ -1,0 +1,56 @@
+@startuml
+skinparam class {
+	BackgroundColor White
+	ArrowColor Black
+	BorderColor Black
+}
+class Entity as "Потоки"
+
+class Input as "Входной\nпоток"
+class INInformation as "Информационный"
+class Requirements as "Параметры\n сделки"
+class lid as "лид"
+class zayavki as "заявки"
+class contacts as "контакты"
+
+
+
+
+class Output as "Выходной\nпоток"
+class OUTMaterialistic as "Материальный"
+class VichislitRes as "Информационный"
+class VidelenRes as "Данные о клиенте"
+class OutContact as "контакты"
+class outlid as "Лид"
+class FinishedProjest as "Сделка"
+
+class Control as "Поток\nуправления"
+class CTRLInformation as "Информационный"
+class CompanyPolicy as "Правила \nобработки лида"
+class ScrumMethodology as "Правила \nобрабоитки  сделки" 
+
+Entity <|-- Input 
+Entity <|-- Output 
+Entity <|-- Control 
+
+Input <|-- INInformation 
+
+Output <|-- OUTMaterialistic 
+Control <|-- CTRLInformation 
+
+INInformation <|-- Requirements 
+INInformation <|-- lid 
+INInformation <|--zayavki
+INInformation <|--contacts
+OUTMaterialistic <|-- FinishedProjest 
+CTRLInformation <|-- CompanyPolicy 
+CTRLInformation <|-- ScrumMethodology 
+Output <|--VichislitRes
+VichislitRes<|--VidelenRes
+VichislitRes<|--outlid
+VichislitRes<|--OutContact
+
+hide members
+hide circle
+hide methods
+@enduml
