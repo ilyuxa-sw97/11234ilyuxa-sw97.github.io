@@ -117,8 +117,8 @@ A4 Складировать (относится к внешней среде; о
   <img src="https://github.com/ilyuxa-sw97/ilyuxa-sw97.github.io/blob/master/%D0%BA%D1%83%D1%80%D1%81%D0%BE%D0%B2%D0%B0%D1%8F%20%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%B0/VP0nJiCm58Rd-XHMzzw0eRHYZ5JHWON5E5PZ6iULxGXLWDGY8GOaBW03Y0i4GI0gfLpX-KOuSG81LMJB-__tlTz_NnkYJ2fYfASycH551AOnqHgVeiw0qEb4oJG9XpAM2Xz4t33KsLLAdlZ987OMPvGgPAezEaUUifSORkQOQDo5UzZ0EnHTL6iZ9cSnyzgjlO4Nf.png" alt="">
 * **Завершение идентификации всех модулей**
   - Построение ERD (диаграммы классов без атрибутов) для всех модулей
-  - [Загрузка модели и диаграммы классов в репозиторий](https://github.com/bobs4462/bobs4462.github.io/blob/master/lab6/modules.uml.txt) <br>
- ![none](https://raw.githubusercontent.com/bobs4462/bobs4462.github.io/master/lab6/modules.png) 
+  - [Загрузка модели и диаграммы классов в репозиторий](https://github.com/ilyuxa-sw97/ilyuxa-sw97.github.io/blob/master/%D0%BA%D1%83%D1%80%D1%81%D0%BE%D0%B2%D0%B0%D1%8F%20%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%B0/erd3 <br>
+ ![none](https://github.com/ilyuxa-sw97/ilyuxa-sw97.github.io/blob/master/%D0%BA%D1%83%D1%80%D1%81%D0%BE%D0%B2%D0%B0%D1%8F%20%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%B0/ZPBFRjGm4CRFzLDOlVVINZcK5hWX9AZ4sKsihhL9lBApHUMF10jjGI3j2_0Gsz1LmswJliBC6-7Hx9yeib1FSJxxztayyntwKhbod6V23qqnKaxbCicKz_A3s3bIoV3CsN6H7jlCElbsO4ejTfuwPz-nSfI58-6WTQbsNUcJO9VdHMdA2wcyt8NVqC8jVeKbrBjYj.png) 
 
 
 </body>
