@@ -1,0 +1,40 @@
+@startuml
+skinparam class {
+	BackgroundColor White
+	ArrowColor Black
+	BorderColor Black
+}
+class Entity as "Модули"
+
+class ModOb as "Модуль обработки"
+class CrReb as "Модуль передачи данных в шаблон документа"
+class FindTr as "Модуль автонумерации документа"
+class DelReb as "модуль сравнения направлений поездок"
+class SpisTr as "модуль среднего чека"
+class categor as "модуль категории поездок"
+class proverka as "модуль проверки"
+
+
+class Modsvyazi as "Модуль связи"
+class socseti as "модуль общения в соц сетях"
+class socseti2 as "модуль общения в e-mail"
+class socseti3 as "модуль общения в телефона"
+
+
+Entity <|-- ModOb
+Entity <|-- Modsvyazi
+
+ModOb <|-- CrReb
+ModOb <|-- FindTr
+ModOb <|-- DelReb
+ModOb <|-- SpisTr
+ModOb <|-- categor
+ModOb <|-- proverka
+
+Modsvyazi<|--socseti
+Modsvyazi<|--socseti2
+Modsvyazi<|--socseti3
+hide members
+hide circle
+hide methods
+@enduml
