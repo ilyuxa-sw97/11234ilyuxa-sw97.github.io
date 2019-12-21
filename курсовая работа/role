@@ -1,0 +1,33 @@
+@startuml
+skinparam class {
+	BackgroundColor White
+	ArrowColor Black
+	BorderColor Black
+}
+class Entity as "Роли"
+
+class People as "Люди"
+class Machanisms as "Механизмы"
+
+class ProjectParticipators as "Участники\nпроекта"
+class ScrumProjectSystem as "CRM Система"
+
+class ProjectManager as "Менеджер\nпо работе с клиентами"
+class ScrumMaster as "програмист"
+
+
+
+Entity <|-- People 
+Entity <|-- Machanisms 
+
+People <|-- ProjectParticipators 
+Machanisms <|-- ScrumProjectSystem 
+
+ProjectParticipators <|-- ProjectManager 
+ProjectParticipators <|-- ScrumMaster 
+
+
+hide members
+hide circle
+hide methods
+@enduml
