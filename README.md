@@ -171,5 +171,13 @@ A4 Складировать (относится к внешней среде; о
 эффективность сотрудника <br>
 4.5/8*100%= 56% <br>
 каждый сотрудник эффективнее работает на 56% <br>
+**Определение числа и сложности функциональных точек для модулей и хранилищ**<br>
 
+<img src="https://github.com/ilyuxa-sw97/ilyuxa-sw97.github.io/blob/master/%D0%BA%D1%83%D1%80%D1%81%D0%BE%D0%B2%D0%B0%D1%8F%20%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%B0/%D1%81%D0%BB%D0%BE%D0%B6%D0%BD%D0%BE%D1%81%D1%82%D1%8C%20%D0%B4%D0%B0%D0%BD%D0%BD%D1%8B%D1%85.png" alt=""><br>
+**Расчет сложности разработки методом FPA/IFPUG**<br>
+<img src="https://github.com/ilyuxa-sw97/ilyuxa-sw97.github.io/blob/master/%D0%BA%D1%83%D1%80%D1%81%D0%BE%D0%B2%D0%B0%D1%8F%20%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%B0/kloc.png" alt="">
+Расчет трудозатрат на разработку "с нуля" методом COCOMO II<br>
+<img src="https://github.com/ilyuxa-sw97/ilyuxa-sw97.github.io/blob/master/%D0%BA%D1%83%D1%80%D1%81%D0%BE%D0%B2%D0%B0%D1%8F%20%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%B0/cocomo2.png" alt="">
+
+</body>
 </body>
