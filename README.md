@@ -70,7 +70,6 @@ A4 Складировать (относится к внешней среде; о
 <img src="https://github.com/ilyuxa-sw97/ilyuxa-sw97.github.io/blob/master/%D0%BA%D1%83%D1%80%D1%81%D0%BE%D0%B2%D0%B0%D1%8F%20%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%B0/model.png" alt="">
 <img src="https://github.com/ilyuxa-sw97/ilyuxa-sw97.github.io/blob/master/%D0%BA%D1%83%D1%80%D1%81%D0%BE%D0%B2%D0%B0%D1%8F%20%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%B0/model (1).png" alt="">
 <img src="https://github.com/ilyuxa-sw97/ilyuxa-sw97.github.io/blob/master/%D0%BA%D1%83%D1%80%D1%81%D0%BE%D0%B2%D0%B0%D1%8F%20%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%B0/model%20(2).png" alt="">
-<img src="https://github.com/ilyuxa-sw97/ilyuxa-sw97.github.io/blob/master/%D0%BA%D1%83%D1%80%D1%81%D0%BE%D0%B2%D0%B0%D1%8F%20%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%B0/model%20(4).png" alt="">
 <img src="https://github.com/ilyuxa-sw97/ilyuxa-sw97.github.io/blob/master/%D0%BA%D1%83%D1%80%D1%81%D0%BE%D0%B2%D0%B0%D1%8F%20%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%B0/model%20(5).png" alt="">
 <img src="https://github.com/ilyuxa-sw97/ilyuxa-sw97.github.io/blob/master/%D0%BA%D1%83%D1%80%D1%81%D0%BE%D0%B2%D0%B0%D1%8F%20%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%B0/model%20(6).png" alt="">
 
